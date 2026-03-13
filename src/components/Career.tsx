@@ -96,6 +96,51 @@ const Career = () => {
             </p>
           </div>
         </div>
+        
+        <h2>
+          <span>Awards &</span> Achievements
+        </h2>
+        <div className="career-info">
+          <div className="career-timeline">
+            <div className="career-dot"></div>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>1st Rank</h4>
+                <h5>Shodh Shikhar International Research Convention</h5>
+              </div>
+              <h3>Bhopal</h3>
+            </div>
+            <p>
+              Awarded 1st place at the Shodh Shikhar International Student Research Project Convention.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>1st Rank</h4>
+                <h5>Abhigyan-2023 International Techfest</h5>
+              </div>
+              <h3>2023</h3>
+            </div>
+            <p>
+              Achieved 1st place in the international tech competition in India.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Director General Award</h4>
+                <h5>Ganpat University</h5>
+              </div>
+              <h3>Best Student</h3>
+            </div>
+            <p>
+              Awarded Best Student of the Year. <strong>Design Patent Pending (India & USA):</strong> Hand-Held Dual Laser and Micro-Needling Current Device for Advanced Physiotherapy Treatment.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   );
