@@ -6,7 +6,7 @@ const Career = () => {
       <div className="career-container">
         <h2>
           My career <span>&</span>
-          <br /> experience
+          <br /> education
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -15,43 +15,76 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>IT Support / Student Worker</h4>
+                <h5>University of Hartford</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Troubleshoot hardware/software issues and provide frontline support for students, faculty,
+              and staff. Assist with workstation setup, device provisioning, and basic network/account support. Maintain clear ticket notes and documentation to ensure consistent resolution and knowledge sharing.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>R&D Engineer</h4>
+                <h5>RegenWave Medical Instruments</h5>
+              </div>
+              <h3>2023</h3>
+            </div>
+            <p>
+              Developed portable physiotherapy devices integrating dual cold-laser modules with micro-current therapy.
+              Led rapid prototyping, bench testing, and iterative design for usability, reliability, and manufacturability. Supported compliance and validation activities (documentation, risk considerations, test planning) and contributed to IP preparation.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>IoT Intern</h4>
+                <h5>TechiesMS</h5>
+              </div>
+              <h3>2022</h3>
+            </div>
+            <p>
+              Built IoT prototypes using microcontrollers and sensors; assisted with integration and testing.
+              Supported e-commerce operations and digital listings, strengthening technical and business execution.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>CNC/VMC Intern</h4>
+                <h5>Indo German Tool Room</h5>
               </div>
               <h3>2021</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Assisted in CNC/VMC shop operations and basic process planning; gained exposure to manufacturing workflows and quality practices.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>B.S. Robotics Engineering</h4>
+                <h5>University of Hartford</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2027</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Expected May 2027. Vice President of ASME Student Chapter and member of Assistive Robotics Team (ART).
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Diploma in Mechatronics</h4>
+                <h5>Ganpat University</h5>
+              </div>
+              <h3>2023</h3>
+            </div>
+            <p>
+              Highlights: 3D modeling; biomaterial & multi-material 3D printing (Stratasys DentaJet™); startup grant support (Techbotic).
             </p>
           </div>
         </div>
